@@ -1,37 +1,14 @@
-[
-  {
-    "id": "1",
-    "name": "Men's Round Neck Cotton Blend Black T-Shirt",
-    "image": "https://images.pexels.com/photos/8532616/pexels-photo-8532616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "price": 199,
-    "category": "men"
-  },
-  {
-    "id": "2",
-    "name": "Men's Shirt",
-    "image": "https://images.pexels.com/photos/769749/pexels-photo-769749.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "price": 699,
-    "category": "men"
-  },
-  {
-    "id": "3",
-    "name": "Watch box",
-    "image": "https://images.pexels.com/photos/380782/pexels-photo-380782.jpeg",
-    "price": 799,
-    "category": "men"
-  },
-  {
-    "id": "4",
-    "name": "Samsung smartphone",
-    "image": "https://images.pexels.com/photos/1786433/pexels-photo-1786433.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "price": 19990,
-    "category": "electric"
-  },
-  {
-    "id": "5",
-    "name": "Earings",
-    "image": "https://images.pexels.com/photos/1721937/pexels-photo-1721937.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "price": 2199,
-    "category": "jewellery"
+{
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-]
+}
