@@ -1,5 +1,4 @@
-// data of all the product's in home page
-// id, name, image url , price and category of the product
+
 { 
 "products": [
     {
